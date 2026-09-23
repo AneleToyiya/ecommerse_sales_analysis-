@@ -25,10 +25,10 @@ Data Source: The dataset used in this project was sourced from **Kaggle** and us
 ## Tools & Technologies
 
 1. **Python** — Data analysis and programming
-2. **Pandas** — Data loading, manipulation, and analysis
+2. **Pandas** — Data loading, manipulation and analysis
 3. **Matplotlib** — Data visualization
 4. **Seaborn** — Statistical visualizations
-5. **Jupyter Notebook** — Interactive analysis and documentation
+5. **Jupyter Notebook** — Doing analysis and documentation
 
 
 ## Project Steps
